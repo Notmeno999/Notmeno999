@@ -1,0 +1,3 @@
+- 👀 I’m interested in AI
+- 🌱 I’m currently studying in computer science
+- ⚡ Fun fact: My favorite coding language is Python
